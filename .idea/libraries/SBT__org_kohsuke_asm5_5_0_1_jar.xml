@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.kohsuke:asm5:5.0.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.kohsuke/asm5/jars/asm5-5.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.kohsuke/asm5/srcs/asm5-5.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

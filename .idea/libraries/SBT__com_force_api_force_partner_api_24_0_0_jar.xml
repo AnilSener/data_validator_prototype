@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.force.api:force-partner-api:24.0.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.force.api/force-partner-api/jars/force-partner-api-24.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.force.api/force-partner-api/srcs/force-partner-api-24.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

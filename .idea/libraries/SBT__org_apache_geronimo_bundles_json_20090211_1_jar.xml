@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.geronimo.bundles:json:20090211_1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.geronimo.bundles/json/bundles/json-20090211_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.geronimo.bundles/json/srcs/json-20090211_1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

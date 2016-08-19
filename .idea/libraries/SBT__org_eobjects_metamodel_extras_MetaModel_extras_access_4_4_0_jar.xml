@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.eobjects.metamodel-extras:MetaModel-extras-access:4.4.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eobjects.metamodel-extras/MetaModel-extras-access/jars/MetaModel-extras-access-4.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eobjects.metamodel-extras/MetaModel-extras-access/srcs/MetaModel-extras-access-4.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
