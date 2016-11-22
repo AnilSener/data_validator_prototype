@@ -33,7 +33,7 @@ import scala.util.{Try,Success, Failure}
   */
 object DataCleanerTest {
   private final val USER="testuser"
-  private final val PASSWORD="kan66CAN"
+  private final val PASSWORD="XXXXXX"
   private final val CATALOG="test"
   private final val TARGET_DB_HOST="localhost"
   private final val TARGET_DB_PORT="1433"
